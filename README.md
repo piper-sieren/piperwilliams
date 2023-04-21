@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Setup Steps [React-gh-pages](https://github.com/gitname/react-gh-pages)
 
 ## Available Scripts
 
@@ -8,9 +9,13 @@ In the project directory, you can run:
 
 ### `npm start`
 
-### Under the hood, the predeploy script will build a distributable version of the React app and store it in a folder ### named build. Then, the deploy script will push the contents of that folder to a new commit on the gh-pages branch of ### the GitHub repository, creating that branch if it doesn't already exist.
+Under the hood, the predeploy script will build a distributable version of the React app and store it in a folder ### named build. Then, the deploy script will push the contents of that folder to a new commit on the gh-pages branch of ### the GitHub repository, creating that branch if it doesn't already exist.
 
 ### `npm run deploy`
+
+run with commit message
+
+### `npm run deploy -- -m "Deploy React app to GitHub Pages"`
 
 ### `npm run predeploy`
 
