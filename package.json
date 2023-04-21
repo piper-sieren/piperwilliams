@@ -1,7 +1,7 @@
 {
   "name": "piperwilliams",
   "version": "0.1.0",
-  "homepage": "https://piperwilliams/gh-pages",
+  "homepage": "https://piper-sieren.github.io/piperwilliams/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
